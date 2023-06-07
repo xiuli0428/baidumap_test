@@ -1,0 +1,8 @@
+platform :ios, '11.0'
+#inhibit_all_warnings!
+
+target 'swiftBaseDev' do
+pod 'BaiduMapKit', '6.2.0'
+#pod 'BaiduMapKit/Map', '~> 6.5.8'
+#pod 'BMKLocationKit'
+end

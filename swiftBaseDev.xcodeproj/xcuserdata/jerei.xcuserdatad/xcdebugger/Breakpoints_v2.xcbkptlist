@@ -1,0 +1,2892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBA80248-3C57-418A-9231-72E8251D0375"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "88C78BDA-D890-4E93-A9FF-C9BA0874CD9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "B2284C57-44D8-4772-90D1-EE18C8BCB2D3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83EF10D5-96C7-4357-BF37-7140DC6C9FF2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1524"
+            endingLineNumber = "1524"
+            landmarkName = "topBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1248DFD5-8A83-4A10-BE82-A0BFBC4DE1F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2143"
+            endingLineNumber = "2143"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F699C4B-4BBB-4591-A651-9C6746366B05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1873"
+            endingLineNumber = "1873"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92431FC5-6B08-4D11-9634-4AC6075EBB8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2038"
+            endingLineNumber = "2038"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38A21942-2F49-4CDE-8851-217823C65A2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2137"
+            endingLineNumber = "2137"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "585124E7-EA43-4B52-B32E-845660614D01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "application(_:open:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1C741FD-B854-489B-9A69-E1E801113D79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1751"
+            endingLineNumber = "1751"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "855036F9-FBAF-4CFD-B191-8726177C1E36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "978"
+            endingLineNumber = "978"
+            landmarkName = "loadNewsData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23C1A03F-A5AF-4B89-8E04-59701C043B57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "769"
+            endingLineNumber = "769"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0594AB6-FEBD-472C-B30B-2B36774F52D9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1008"
+            endingLineNumber = "1008"
+            landmarkName = "liveFloatAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "021D75D2-E5B9-4D2B-92A3-FA31B9C86BF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "535"
+            endingLineNumber = "535"
+            landmarkName = "loadInitialData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1555"
+            endingLineNumber = "1555"
+            landmarkName = "topBtnAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - acaf7f7955d5a791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5560">
+               </Location>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - acaf7f7955d5a791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5628">
+               </Location>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - acaf7f7955d5a791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5800">
+               </Location>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - acaf7f7955d5a791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5884">
+               </Location>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - bb6afb0e6e66876f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5800">
+               </Location>
+               <Location
+                  uuid = "458419F3-4DF1-4383-89A5-4EEAF870C7F4 - bb6afb0e6e66876f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.HomeViewController.topBtnAction(__C.UIButton) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1555"
+                  endingLineNumber = "1555"
+                  offsetFromSymbolStart = "5884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93EAA389-9324-46B0-A299-E9738A1761C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "559"
+            endingLineNumber = "559"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95051217-646D-4DEA-B9F2-B2B6DE10C0DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1347"
+            endingLineNumber = "1347"
+            landmarkName = "agreeClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7230A80B-7DE9-4E2E-8B99-4B3994A1DD00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1320"
+            endingLineNumber = "1320"
+            landmarkName = "agreeClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D202577-6DF6-46B3-96C3-F22CC8723AB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1554"
+            endingLineNumber = "1554"
+            landmarkName = "-weixinzhifu:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E848EDE8-D657-48DF-AC3B-DA06B941EB08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1276"
+            endingLineNumber = "1276"
+            landmarkName = "-webView:didFailProvisionalNavigation:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E848EDE8-D657-48DF-AC3B-DA06B941EB08 - 54be867092f848ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[WebNewViewController webView:didFailProvisionalNavigation:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1276"
+                  endingLineNumber = "1276"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "E848EDE8-D657-48DF-AC3B-DA06B941EB08 - 3197318e4e70b172"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController webView:didFailProvisionalNavigation:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1276"
+                  endingLineNumber = "1276"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "E848EDE8-D657-48DF-AC3B-DA06B941EB08 - 54be867092f848ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__61-[WebNewViewController webView:didFailProvisionalNavigation:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1277"
+                  endingLineNumber = "1277"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F08EE13F-B835-45B2-964C-73B47EA6A187"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "-detail:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F08EE13F-B835-45B2-964C-73B47EA6A187 - 96948084a2d0d4a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+               <Location
+                  uuid = "F08EE13F-B835-45B2-964C-73B47EA6A187 - 96948084a2d0d484"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "F08EE13F-B835-45B2-964C-73B47EA6A187 - c4559bac5a20028b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53000B95-4756-42CA-A4B9-860170964220"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/My/MyAddressViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AADCF64E-E09B-4603-B723-EAC620510C9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "510"
+            endingLineNumber = "510"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AADCF64E-E09B-4603-B723-EAC620510C9F - 110aa73e023f968a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "511"
+                  endingLineNumber = "511"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "AADCF64E-E09B-4603-B723-EAC620510C9F - 110aa73e023f96ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "510"
+                  endingLineNumber = "510"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "AADCF64E-E09B-4603-B723-EAC620510C9F - 43cbbc16facf448d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "510"
+                  endingLineNumber = "510"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B30D805E-3BCE-4389-97DB-F8EB80F821AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1387"
+            endingLineNumber = "1387"
+            landmarkName = "choseZJandLoadDataClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ACC034A-1294-498A-B48D-D75425FC6CB7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1528"
+            endingLineNumber = "1528"
+            landmarkName = "resetZJandLoadDataClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA95DCDA-70D3-4C75-BAAE-02A99C479881"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "974"
+            endingLineNumber = "974"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83CD1BDF-03C2-4470-921B-2CD8592B953B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "501"
+            endingLineNumber = "501"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83CD1BDF-03C2-4470-921B-2CD8592B953B - 110aa73e033f97a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_12"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "502"
+                  endingLineNumber = "502"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "83CD1BDF-03C2-4470-921B-2CD8592B953B - 110aa73e033f9742"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_12"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "83CD1BDF-03C2-4470-921B-2CD8592B953B - 43cbbc16fbcf45a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_12"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "501"
+                  endingLineNumber = "501"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15B10B96-6F64-4BEA-9862-EBDC141F870A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1657"
+            endingLineNumber = "1657"
+            landmarkName = "-backClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15B10B96-6F64-4BEA-9862-EBDC141F870A - d86d49b9d0104bb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController backClick]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1658"
+                  endingLineNumber = "1658"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "15B10B96-6F64-4BEA-9862-EBDC141F870A - d86d49b9d0104b5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController backClick]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1657"
+                  endingLineNumber = "1657"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0AB91E4-2820-424B-9D86-1BA8DF1B593C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "-back:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0AB91E4-2820-424B-9D86-1BA8DF1B593C - b499d4852c2255c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController back:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "B0AB91E4-2820-424B-9D86-1BA8DF1B593C - b499d4852c225620"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController back:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "B0AB91E4-2820-424B-9D86-1BA8DF1B593C - e658cfadd4d2e42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController back:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "686F02B0-DF25-470B-AB7E-33A9B27A2ACF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1850"
+            endingLineNumber = "1850"
+            landmarkName = "noProductDataClick()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFB13DC-17D4-4D9C-AE8C-BEFB9B7CD7C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "576"
+            endingLineNumber = "576"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43FD9AEE-3C13-4369-81D2-EC593BD49D71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "869"
+            endingLineNumber = "869"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96A884C1-6CF9-49CE-85C6-0C67DA132DA5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/EquipmentPromotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A625F84-8E75-46A1-9EFA-437B3D65D23F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "397"
+            endingLineNumber = "397"
+            landmarkName = "checkStoreVersion()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EF02BD0-D64A-4F14-9E64-9FEF34B00D69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "622"
+            endingLineNumber = "622"
+            landmarkName = "loadFloatActivityData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E4E787-F19E-41F0-8493-2FBE7B1BC668"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "810"
+            endingLineNumber = "810"
+            landmarkName = "-askWeChatAuthInfo"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "60E4E787-F19E-41F0-8493-2FBE7B1BC668 - 4838c120bd7f21a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke.452"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "811"
+                  endingLineNumber = "811"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "60E4E787-F19E-41F0-8493-2FBE7B1BC668 - 4838c120bd7f21c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke.452"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "810"
+                  endingLineNumber = "810"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "60E4E787-F19E-41F0-8493-2FBE7B1BC668 - 1af9da08458f73af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke.452"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "810"
+                  endingLineNumber = "810"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D267A626-37F8-4982-B05F-4324E249818D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "694"
+            endingLineNumber = "694"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D267A626-37F8-4982-B05F-4324E249818D - ff449ab11c04c075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_16.393"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "695"
+                  endingLineNumber = "695"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "D267A626-37F8-4982-B05F-4324E249818D - ff449ab11c04c054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_16.393"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "694"
+                  endingLineNumber = "694"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "D267A626-37F8-4982-B05F-4324E249818D - ad858199e4f47272"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_16.393"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "694"
+                  endingLineNumber = "694"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55062E2C-0DE7-4540-8C94-7B35DCBD429C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "855"
+            endingLineNumber = "855"
+            landmarkName = "-saveWeChatAuthInfoWithDic:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9A2BB71-79DF-46E1-98EB-7CF698EE8FF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "860"
+            endingLineNumber = "860"
+            landmarkName = "-saveWeChatAuthInfoWithDic:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D9A2BB71-79DF-46E1-98EB-7CF698EE8FF8 - 7d2f14b4d2995d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[WebNewViewController saveWeChatAuthInfoWithDic:]_block_invoke_2"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "862"
+                  endingLineNumber = "862"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "D9A2BB71-79DF-46E1-98EB-7CF698EE8FF8 - 7d2f14b4d2995d12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[WebNewViewController saveWeChatAuthInfoWithDic:]_block_invoke_2"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "860"
+                  endingLineNumber = "860"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "D9A2BB71-79DF-46E1-98EB-7CF698EE8FF8 - 2fee0f9c2a693370"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__50-[WebNewViewController saveWeChatAuthInfoWithDic:]_block_invoke_2"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "860"
+                  endingLineNumber = "860"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61A0D5BA-2A59-44B3-95DF-527345057E4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "792"
+            endingLineNumber = "792"
+            landmarkName = "-askWeChatAuthInfo"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61A0D5BA-2A59-44B3-95DF-527345057E4E - 950f9604dbafa860"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "792"
+                  endingLineNumber = "792"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "61A0D5BA-2A59-44B3-95DF-527345057E4E - 950f9604dbafa781"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "793"
+                  endingLineNumber = "793"
+                  offsetFromSymbolStart = "400">
+               </Location>
+               <Location
+                  uuid = "61A0D5BA-2A59-44B3-95DF-527345057E4E - c7ce8d2c235ff982"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController askWeChatAuthInfo]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "792"
+                  endingLineNumber = "792"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95CDA071-9116-4F30-A2F7-B96B7277123D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "592"
+            endingLineNumber = "592"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95CDA071-9116-4F30-A2F7-B96B7277123D - 565ec4609cdd8060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_5.326"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "593"
+                  endingLineNumber = "593"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "95CDA071-9116-4F30-A2F7-B96B7277123D - 565ec4609cdd8041"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_5.326"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "592"
+                  endingLineNumber = "592"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "95CDA071-9116-4F30-A2F7-B96B7277123D - 49fdf48642d5263"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_5.326"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "592"
+                  endingLineNumber = "592"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3BF3279-AE49-4B48-951A-905F72541BEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "597"
+            endingLineNumber = "597"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3BF3279-AE49-4B48-951A-905F72541BEE - 524eec8b84da7bba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_6.331"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "598"
+                  endingLineNumber = "598"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B3BF3279-AE49-4B48-951A-905F72541BEE - 524eec8b84da7b99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_6.331"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "597"
+                  endingLineNumber = "597"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B3BF3279-AE49-4B48-951A-905F72541BEE - 8ff7a37c2aa9bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_6.331"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "597"
+                  endingLineNumber = "597"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46F7E6A9-CF96-4554-85D1-601CD632F054"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "727"
+            endingLineNumber = "727"
+            landmarkName = "loadTopBannerData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "3493E616-8EDC-4949-8066-AFD370C2157F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C2A1A1B-CAC5-4CB8-8D9E-97755B05FBF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "loadHeaderData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "742B1A08-79B2-4E7A-8ABD-231707204FD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeChooseLabelVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "skipAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E651256E-9D4F-4E64-A66F-78C93125854C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "647"
+            endingLineNumber = "647"
+            landmarkName = "singleTapActivity()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012B2C18-541B-4EF2-9112-46D441199A18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1676"
+            endingLineNumber = "1676"
+            landmarkName = "preparationClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "471352AE-6093-48DE-AD03-39615DFE2061"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "filterBtnAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38A0B965-6C4F-40A0-B3A2-C20BE20B4AFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "567"
+            endingLineNumber = "567"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68715407-5486-4D8D-A132-598BA1D0870F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "618"
+            endingLineNumber = "618"
+            landmarkName = "choseCPLBClick(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96283600-B742-47F3-879C-55A4B0B7181B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "629"
+            endingLineNumber = "629"
+            landmarkName = "choseCPDWClick(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4886C8E1-BEFB-4332-B4C3-D5E3439812FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "651"
+            endingLineNumber = "651"
+            landmarkName = "choseCPDWClick(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7A29768-D805-49B4-AD57-2F928114ABC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeDWLeaseVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "461"
+            endingLineNumber = "461"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF9BD09D-1FF0-4FD4-8083-F94DC0643791"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1677"
+            endingLineNumber = "1677"
+            landmarkName = "preparationClick(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB974674-1985-4642-BF17-AD8CC3E87D08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "452"
+            endingLineNumber = "452"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA791E48-C047-4907-8653-31F76AA738E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1164"
+            endingLineNumber = "1164"
+            landmarkName = "-load"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA791E48-C047-4907-8653-31F76AA738E7 - 4bb7fb27a88a6401"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController load]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1166"
+                  endingLineNumber = "1166"
+                  offsetFromSymbolStart = "6240">
+               </Location>
+               <Location
+                  uuid = "BA791E48-C047-4907-8653-31F76AA738E7 - 4bb7fb27a88a6401"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController load]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1166"
+                  endingLineNumber = "1166"
+                  offsetFromSymbolStart = "6244">
+               </Location>
+               <Location
+                  uuid = "BA791E48-C047-4907-8653-31F76AA738E7 - 4bb7fb27a88a6bc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController load]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1164"
+                  endingLineNumber = "1164"
+                  offsetFromSymbolStart = "6008">
+               </Location>
+               <Location
+                  uuid = "BA791E48-C047-4907-8653-31F76AA738E7 - 1976e00f507bd9e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController load]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1164"
+                  endingLineNumber = "1164"
+                  offsetFromSymbolStart = "6008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3802249-8A81-4A4E-830D-2B5241458B8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "356"
+            endingLineNumber = "356"
+            landmarkName = "loadHeaderData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD450DA8-7DFE-496F-8F16-BC32B2FF9E08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
+            landmarkName = "loadHeaderData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35D6757A-E2A6-48E7-AE90-FA2D7CDF173F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "loadHeaderData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "C021887D-4F74-403A-8667-0D396E318884"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76A40207-153D-4B86-AB14-5CA271EEB186"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "757"
+            endingLineNumber = "757"
+            landmarkName = "singleTap()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5015E137-F689-4A8C-B090-DC06FDD85E10"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1984"
+            endingLineNumber = "1984"
+            landmarkName = "cycleScrollView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F075E5B0-3396-4388-9252-50C199AC3A39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1468"
+            endingLineNumber = "1468"
+            landmarkName = "-afterPaySuccess"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F075E5B0-3396-4388-9252-50C199AC3A39 - eba11ba7d622cb41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[WebNewViewController afterPaySuccess]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1470"
+                  endingLineNumber = "1470"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "F075E5B0-3396-4388-9252-50C199AC3A39 - eba11ba7d622cb03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[WebNewViewController afterPaySuccess]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1468"
+                  endingLineNumber = "1468"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A388FC1-36BE-4203-91C4-B6D281810C43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1476"
+            endingLineNumber = "1476"
+            landmarkName = "-afterPaySuccess"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A388FC1-36BE-4203-91C4-B6D281810C43 - 7edecde64d6a823b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController paymidcancel]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1478"
+                  endingLineNumber = "1478"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "2A388FC1-36BE-4203-91C4-B6D281810C43 - 66a6328d333058a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[WebNewViewController afterPaySuccess]_block_invoke_2"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1476"
+                  endingLineNumber = "1476"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22B1E457-57B6-4213-8B5C-8EDCF3CD463B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1575"
+            endingLineNumber = "1575"
+            landmarkName = "-onResp:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "22B1E457-57B6-4213-8B5C-8EDCF3CD463B - b9c3e79c7fb27adc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController onResp:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1575"
+                  endingLineNumber = "1575"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "22B1E457-57B6-4213-8B5C-8EDCF3CD463B - b9c3e79c7fb27adc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController onResp:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1575"
+                  endingLineNumber = "1575"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9364E6FE-5A3E-4ABB-9BF9-1AC31BC77D49"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1496"
+            endingLineNumber = "1496"
+            landmarkName = "-wxPayWithOrderNo:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9364E6FE-5A3E-4ABB-9BF9-1AC31BC77D49 - 95efa33b951e6f11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__41-[WebNewViewController wxPayWithOrderNo:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1496"
+                  endingLineNumber = "1496"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "9364E6FE-5A3E-4ABB-9BF9-1AC31BC77D49 - b0aa61142e75caa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[WebNewViewController wxPayWithOrderNo:]"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1496"
+                  endingLineNumber = "1496"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FEBA2F8F-1295-44EE-803F-CF5FAD08ED07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Community/CommunityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "231D0810-4B57-4B45-A701-449E65F52AAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Community/CommunityViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4DC8DDD-E590-4F4B-A0F0-3806929EEB46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/My/ResetPwdViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "touchesEnded(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D77513B8-4924-4842-81D8-4912D751EB04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "422"
+            endingLineNumber = "422"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41CD0DEF-094F-44B2-9F9D-41A101E2FDB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "-detail:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41CD0DEF-094F-44B2-9F9D-41A101E2FDB3 - 96948084a2d0d3bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "41CD0DEF-094F-44B2-9F9D-41A101E2FDB3 - 96948084a2d0d25e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "41CD0DEF-094F-44B2-9F9D-41A101E2FDB3 - c4559bac5a2001bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[WebNewViewController detail:]_block_invoke"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "257"
+                  endingLineNumber = "257"
+                  offsetFromSymbolStart = "316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58F10413-5F94-41AB-A651-648CA48A8B78"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "58F10413-5F94-41AB-A651-648CA48A8B78 - 8f043a7b1c70c583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14.387"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "650"
+                  endingLineNumber = "650"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "58F10413-5F94-41AB-A651-648CA48A8B78 - 8f043a7b1c70c560"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14.387"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "649"
+                  endingLineNumber = "649"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "58F10413-5F94-41AB-A651-648CA48A8B78 - ddc52153e4807382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[WebNewViewController resetBridge]_block_invoke_14.387"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Web/WebNewViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "649"
+                  endingLineNumber = "649"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FB21C8D-D0ED-4EA2-88BF-460FE9BFC84F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Web/WebNewViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "756"
+            endingLineNumber = "756"
+            landmarkName = "-resetBridge"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C8C18E5-E717-4A78-A633-0216912F7642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/MainTainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C8C18E5-E717-4A78-A633-0216912F7642 - 68ab6fd7d0c5bcab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1760">
+               </Location>
+               <Location
+                  uuid = "4C8C18E5-E717-4A78-A633-0216912F7642 - 68ab6fd7d0c5bcab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "7828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93FDE7E7-FBBF-4488-9E26-7514FF85ADD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/My/AddComplaintViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93FDE7E7-FBBF-4488-9E26-7514FF85ADD0 - e77a70de4d30e9fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AddComplaintViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/My/AddComplaintViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "93FDE7E7-FBBF-4488-9E26-7514FF85ADD0 - e77a70de4d30e99d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AddComplaintViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/My/AddComplaintViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "93FDE7E7-FBBF-4488-9E26-7514FF85ADD0 - 776b14d9b312e57f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AddComplaintViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/My/AddComplaintViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5AAC0BF-199E-400F-AB32-81E1134E60F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/MainTainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "maintainDeleteAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5AAC0BF-199E-400F-AB32-81E1134E60F6 - ba6977cb37dd579f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.maintainDeleteAction(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "E5AAC0BF-199E-400F-AB32-81E1134E60F6 - ba6977cb37dd579f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.maintainDeleteAction(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "149871F4-3E25-48D5-A958-61FF47CB0200"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/MainTainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
+            landmarkName = "submitClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "149871F4-3E25-48D5-A958-61FF47CB0200 - 185aad94d206d3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.submitClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "11584">
+               </Location>
+               <Location
+                  uuid = "149871F4-3E25-48D5-A958-61FF47CB0200 - 185aad94d206d3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.submitClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "330"
+                  endingLineNumber = "330"
+                  offsetFromSymbolStart = "11636">
+               </Location>
+               <Location
+                  uuid = "149871F4-3E25-48D5-A958-61FF47CB0200 - 185aad94d206d259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.submitClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326"
+                  offsetFromSymbolStart = "11060">
+               </Location>
+               <Location
+                  uuid = "149871F4-3E25-48D5-A958-61FF47CB0200 - 14c9a43751e4ce77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.MainTainViewController.submitClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Device/MainTainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "326"
+                  endingLineNumber = "326"
+                  offsetFromSymbolStart = "11060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4ABDC691-535B-4F83-AE06-F4D3ABF52E3E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/MainTainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
+            landmarkName = "getMaintainCommonCode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C44BD5AF-7B7C-4708-81CB-218B9810A06C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C44BD5AF-7B7C-4708-81CB-218B9810A06C - eabf4458c1e807a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AlarmMessagesViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "C44BD5AF-7B7C-4708-81CB-218B9810A06C - eabf4458c1e8043c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AlarmMessagesViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "C44BD5AF-7B7C-4708-81CB-218B9810A06C - a932cf809009d71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.AlarmMessagesViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo_dev/swiftBaseDev/src/View/Device/AlarmMessagesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB3EB9B0-6939-4AF1-81F9-4CB520301448"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "631"
+            endingLineNumber = "631"
+            landmarkName = "myDeviceClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB3EB9B0-6939-4AF1-81F9-4CB520301448 - e2fa0747975b804a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.myDeviceClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "631"
+                  endingLineNumber = "631"
+                  offsetFromSymbolStart = "2960">
+               </Location>
+               <Location
+                  uuid = "FB3EB9B0-6939-4AF1-81F9-4CB520301448 - e2fa0747975b804a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.myDeviceClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "631"
+                  endingLineNumber = "631"
+                  offsetFromSymbolStart = "2224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5BD7308-F7C6-4780-B667-5933D22E614B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "equipmentAuthorizationClick(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5BD7308-F7C6-4780-B667-5933D22E614B - c2b35af0414c927b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.equipmentAuthorizationClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "649"
+                  endingLineNumber = "649"
+                  offsetFromSymbolStart = "3064">
+               </Location>
+               <Location
+                  uuid = "C5BD7308-F7C6-4780-B667-5933D22E614B - c2b35af0414c927b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.equipmentAuthorizationClick(Any) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "649"
+                  endingLineNumber = "649"
+                  offsetFromSymbolStart = "2344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ACB2368-EF6F-465A-97C7-BACC8DB2E049"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "206726FA-E3B8-4E44-BD97-C0099F8FBF49"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E945BA8C-7087-4EDF-9D3F-1250533AB547"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17A79E6D-BE48-4478-971E-7FD8CF4C4163"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2335"
+            endingLineNumber = "2335"
+            landmarkName = "loadFooterData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B9F7A1A-0B33-4E25-8CF7-3FE0C84AAFB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4B9F7A1A-0B33-4E25-8CF7-3FE0C84AAFB9 - db7f25711e7e3a08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.ShoppingMallViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "41820">
+               </Location>
+               <Location
+                  uuid = "4B9F7A1A-0B33-4E25-8CF7-3FE0C84AAFB9 - db7f25711e7e3a08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.ShoppingMallViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "41828">
+               </Location>
+               <Location
+                  uuid = "4B9F7A1A-0B33-4E25-8CF7-3FE0C84AAFB9 - db7f25711e7e3a08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.ShoppingMallViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/ShoppingMall/ShoppingMallViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "41848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D83F6C61-E7AB-4D89-A5C6-6D72AE3A7E57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "730"
+            endingLineNumber = "730"
+            landmarkName = "onNotifitionClick(notifi:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D83F6C61-E7AB-4D89-A5C6-6D72AE3A7E57 - e5bd4dcc28c3391d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in swiftBaseDev.DeviceViewController.onNotifitionClick(notifi: Foundation.Notification) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "731"
+                  endingLineNumber = "731"
+                  offsetFromSymbolStart = "7692">
+               </Location>
+               <Location
+                  uuid = "D83F6C61-E7AB-4D89-A5C6-6D72AE3A7E57 - e5bd4dcc28c33972"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in swiftBaseDev.DeviceViewController.onNotifitionClick(notifi: Foundation.Notification) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "730"
+                  endingLineNumber = "730"
+                  offsetFromSymbolStart = "7496">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6E9D0F4-8C00-44EF-811C-212138A061AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6E9D0F4-8C00-44EF-811C-212138A061AE - 29a6ca323e56a90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "5880">
+               </Location>
+               <Location
+                  uuid = "F6E9D0F4-8C00-44EF-811C-212138A061AE - 29a6ca323e56a90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, didSelectRowAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "5856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F4FC64C-2AEF-4051-999A-112E21C39D9F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35A8A5A6-ACC0-49CF-915C-C02FC9E99AF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35A8A5A6-ACC0-49CF-915C-C02FC9E99AF1 - e9baf0b544e8c36c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1424">
+               </Location>
+               <Location
+                  uuid = "35A8A5A6-ACC0-49CF-915C-C02FC9E99AF1 - e9baf0b544e8c36c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56B7B189-C965-479C-86AB-0236FAF86138"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56B7B189-C965-479C-86AB-0236FAF86138 - e9baf0b544e8dbd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "13988">
+               </Location>
+               <Location
+                  uuid = "56B7B189-C965-479C-86AB-0236FAF86138 - e9baf0b544e8dbd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "14172">
+               </Location>
+               <Location
+                  uuid = "56B7B189-C965-479C-86AB-0236FAF86138 - e9baf0b544e8dbd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "14168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9F05A2-56FA-45D8-86B1-6D9C8C7DBFC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swiftBaseDev/src/View/Device/DeviceDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E9F05A2-56FA-45D8-86B1-6D9C8C7DBFC0 - 71013ef10815ea89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceDetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "445"
+                  endingLineNumber = "445"
+                  offsetFromSymbolStart = "75040">
+               </Location>
+               <Location
+                  uuid = "9E9F05A2-56FA-45D8-86B1-6D9C8C7DBFC0 - 71013ef10815ea89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swiftBaseDev.DeviceDetailViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swiftBaseDev"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jerei/Desktop/volvo/swiftBaseDev/src/View/Device/DeviceDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "445"
+                  endingLineNumber = "445"
+                  offsetFromSymbolStart = "73632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
